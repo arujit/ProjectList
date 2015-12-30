@@ -1,5 +1,13 @@
-Project List
+Projects by Me
+================
 
-List Of all the projects I have worked on.
+Webpage showing my Open Source projects.
 
-Template credit : http://philippemorere.github.io/
+
+
+Theme template:
+[Twitter](https://github.com/twitter/twitter.github.com) opensourse page.
+
+
+
+Feel free to use if you want.
